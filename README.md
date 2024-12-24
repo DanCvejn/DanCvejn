@@ -9,7 +9,7 @@ Hey, my name is Daniel Cvejn and I mainly create websites in ReactJS and NextJS.
 * 🌍  I'm based in Liberec
 * 🖥️  See my portfolio at [here](http://dcreative.cz)
 * ✉️  You can contact me at [dan@dcreative.cz](mailto:dan@dcreative.cz)
-* 🚀  I'm currently working in [SM works](http://smworks.cz)
+* 🚀  I'm currently working in [SMWORKS](http://smworks.cz)
 * 🧠  I'm learning Better way to create websites and APIs
 
 ### Skills
